@@ -1,13 +1,18 @@
 # Modell-identification-and-trajectory-planning
 A Robust Data Driven Approach for Dynamics Model Identification in Trajectory Planning
 
+## Citation
+
+If you use this toolbox or benchmark in your research, please cite this project.
+
+```
 @article{2021IROS,
   title={A Robust Data-Driven Approach for Dynamics Model Identification in Trajectory Planning},
   author={Chen, Jiangqiu and Zhang, Minyu and Yang, Zhifei and Xia, Linqing},
   booktitle={IROS},
   year={2021}
 }
-
+```
 
 
 YouTube: https://www.youtube.com/watch?v=rZSfZJxPOkc&t=135s
